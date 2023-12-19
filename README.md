@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](happt_cat.gif)
 <!--
 **gn0414/gn0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
