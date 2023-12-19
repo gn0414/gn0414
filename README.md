@@ -1,6 +1,7 @@
 ### Hi there 👋 im simon
 🌱 I’m currently learning java
 📫 How to reach me: simon_0414@163.com
+<hr>
 <img src="https://github.com/gn0414/gn0414/blob/master/happy_cat.gif" alt="cat" style="height:140px;"/>
 
 <!--
