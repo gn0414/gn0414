@@ -1,6 +1,7 @@
 ### Hi there 👋 im simon
 🌱 I’m currently learning java
 📫 How to reach me: simon_0414@163.com
+<img src="https://github.com/zamhown/zamhown/blob/main/happy_cat.gif" alt="cat" style="height:140px;"/>
 <!--
 **gn0414/gn0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
